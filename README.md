@@ -18,7 +18,8 @@ I’m a developer based in **Mombasa, Kenya**, with a love for crafting efficien
 
 ---
 
-### 🌐 Let's Connect!
-- 📧 **Email:** [wilfrednjenga45@gmail.com](mailto:wilfrednjenga45@gmail.com)  
-- 💼 **LinkedIn:** [Wilfred Maina Njenga](https://www.linkedin.com/in/wilfred-m-njenga-a80775266/)  
-- 🌐 **Portfolio:** [Your Portfolio](https://yourportfolio.com)  
+## 🌐 Let's Connect
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/AlphaScript-M)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wilfred-m-njenga-a80775266/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:w.maina.njenga@gmail.com)  
+
