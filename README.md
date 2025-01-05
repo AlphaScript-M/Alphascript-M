@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Wilfred Maina Njenga!
 
-<!--
-**AlphaScript-M/Alphascript-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Passionate Developer** | 🖥️ **Back-End Enthusiast** | 📊 **Data Analyst**  
 
-Here are some ideas to get you started:
+I’m a developer based in **Mombasa, Kenya**, with a love for crafting efficient solutions and diving deep into technology.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Tools
+- **Programming Languages:** Python, SQL  
+- **Technologies:** Linux/UNIX, Networking, Tableau  
+- **Specializations:** Data Analytics, Frontend Development, System Administration  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilfredMainaNjenga&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilfredMainaNjenga&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilfredMainaNjenga&theme=radical)  
+
+---
+
+### 🌐 Let's Connect!
+- 📧 **Email:** [wilfrednjenga45@gmail.com](mailto:wilfrednjenga45@gmail.com)  
+- 💼 **LinkedIn:** [Wilfred Maina Njenga](https://www.linkedin.com/in/your-profile/)  
+- 🌐 **Portfolio:** [Your Portfolio](https://yourportfolio.com)  
+
