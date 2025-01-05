@@ -20,5 +20,5 @@ I’m a developer based in **Mombasa, Kenya**, with a love for crafting efficien
 
 ### 🌐 Let's Connect!
 - 📧 **Email:** [wilfrednjenga45@gmail.com](mailto:wilfrednjenga45@gmail.com)  
-- 💼 **LinkedIn:** [Wilfred Maina Njenga](https://www.linkedin.com/in/your-profile/)  
+- 💼 **LinkedIn:** [Wilfred Maina Njenga](https://www.linkedin.com/in/wilfred-m-njenga-a80775266/)  ]
 - 🌐 **Portfolio:** [Your Portfolio](https://yourportfolio.com)  
